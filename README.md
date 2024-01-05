@@ -7,5 +7,5 @@ this Script Created by NodeJs
 
 + termux:
 
-if you not active your termux first enter the `apt update` and `apt upgrade -y` for 5 times !!!
+  if you not active your termux first enter the `apt update` and `apt upgrade -y` for 5 times !!!
   
