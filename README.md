@@ -34,4 +34,8 @@ this Script Created by NodeJs
 
 the user username replaced on USERNAME and the path of your pathword list replaced on PATH_TO_PASSWORD_LIST
 
+# Out Put 
+output 
+---------
+![Screenshot](https://github.com/Zrexer/aparatCracker/blob/main/Screenshot%20(161).png)
 
