@@ -32,7 +32,7 @@ this Script Created by NodeJs
 
 `node aniox.js -u USERNAME -p --reader PATH_TO_PASSWORD_LIST`
 
-the user username replaced on USERNAME and the path of your pathword list replaced on PATH_TO_PASSWORD_LIST
+the user username replaced on USERNAME and the path of your password list replaced on PATH_TO_PASSWORD_LIST
 
 # Out Put 
 output 
